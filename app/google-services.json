@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "289518417153",
+    "firebase_url": "https://freesteamkeys-27bb2.firebaseio.com",
+    "project_id": "freesteamkeys-27bb2",
+    "storage_bucket": "freesteamkeys-27bb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289518417153:android:6b74a319e45fd352",
+        "android_client_info": {
+          "package_name": "com.neobuchaemyj.steamkeys"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289518417153-6feodeje88jcq0ksq43tk32rsdpfm415.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkJ0DXlo6kFmy8qpsmHK9TFeOEhbIWIXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289518417153-6feodeje88jcq0ksq43tk32rsdpfm415.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
